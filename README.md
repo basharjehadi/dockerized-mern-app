@@ -23,6 +23,11 @@ docker run --name=backend --network=demo -d -p 5050:5050 mern-backend
 # Using Docker Compose
 `docker compose up -d`
 
+# if everything works you can access the app from browser
+## Screenshots
+![Dashboard](path-to-image/dashboard.png)
+
+
 
 
 
