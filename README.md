@@ -18,7 +18,7 @@ A simple MERN (MongoDB, Express, React, Node.js) stack application containerized
 `cd backend`
 `docker build -t backend .`
 # Run the server
-docker run --name=backend --network=demo -d -p 5050:5050 mern-backend
+docker run --name=backend --network=demo -d -p 5050:5050 backend
 
 # Using Docker Compose
 `docker compose up -d`
