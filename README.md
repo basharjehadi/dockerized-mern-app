@@ -24,7 +24,6 @@ docker run --name=backend --network=demo -d -p 5050:5050 mern-backend
 `docker compose up -d`
 
 # if everything works you can access the app from browser
-## Screenshots
 ![Dashboard](frontend/mern%20app.png)
 
 
