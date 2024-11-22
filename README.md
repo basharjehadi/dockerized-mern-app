@@ -3,8 +3,8 @@
 # Create a network for the docker containers
 
 # Build the client
-`cd mern/frontend`
-`docker build -t mern-frontend .`
+`cd frontend`
+`docker build -t frontend .`
 
 
 # Run the client
