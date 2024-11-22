@@ -1,5 +1,5 @@
 # dockerized-mern-app
-A simple MERN (MongoDB, Express, React, Node.js) stack application containerized using Docker.
+A simple MERN (MongoDB, Express, React, Node.js) stack three tier application containerized using Docker and Docker compose 
 # Create a network for the docker containers
 `docker network create demo`
 
